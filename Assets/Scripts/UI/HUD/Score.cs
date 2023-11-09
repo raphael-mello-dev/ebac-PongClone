@@ -1,7 +1,6 @@
 using System.Collections;
 using UnityEngine;
 using TMPro;
-using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class Score : MonoBehaviour
 {
